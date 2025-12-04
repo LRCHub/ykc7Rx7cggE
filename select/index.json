@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Campus mode!!",
+  "base_artist": "初星学園",
+  "createdAt": "2025-12-04T07:06:23.603292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Campus mode!!",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/01_Campus_mode!!_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Campus mode!! [Katsuragi Riria Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/02_Campus_mode!!_[Katsuragi_Riria_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Campus mode!! [Kuramoto China Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/03_Campus_mode!!_[Kuramoto_China_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Campus mode!! [Arimura Mao Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/04_Campus_mode!!_[Arimura_Mao_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Campus mode!! [Shinosawa Hiro Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/05_Campus_mode!!_[Shinosawa_Hiro_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Campus mode!! [Shiun Sumika Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/06_Campus_mode!!_[Shiun_Sumika_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Campus mode!! [Himesaki Rinami Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/07_Campus_mode!!_[Himesaki_Rinami_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Campus mode!! [Instrumental]",
+      "artist": "Hatsuboshi Gakuen",
+      "has_synced": false,
+      "path": "select/08_Campus_mode!!_[Instrumental]_Hatsuboshi_Gakuen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Campus mode!! [花海咲季 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/09_Campus_mode!!_[花海咲季_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Campus mode!! [倉本千奈 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/10_Campus_mode!!_[倉本千奈_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Campus mode!!",
+      "artist": "Hatsuboshi Gakuen",
+      "has_synced": true,
+      "path": "select/11_Campus_mode!!_Hatsuboshi_Gakuen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Campus mode!! [篠澤広 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/12_Campus_mode!!_[篠澤広_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Campus mode!! [姫崎莉波 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/13_Campus_mode!!_[姫崎莉波_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Campus mode!! [月村手毬 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/14_Campus_mode!!_[月村手毬_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Campus mode!!",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/pl_01_Campus_mode!!_初星学園.txt"
+    }
+  ]
+}
